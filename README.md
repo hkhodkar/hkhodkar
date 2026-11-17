@@ -1,0 +1,42 @@
+## Hi, I'm Hatef Khodkar
+
+**Senior Front End Developer · Angular / TypeScript** · Dubai, UAE
+
+I build fast, clean and maintainable web applications with Angular. 7+ years of experience shipping enterprise products in healthcare and logistics: clinical data capture platforms, dynamic form builders, dashboards, admin panels and real-time apps. **Available for freelance work.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hkhodkar.github.io-4f46e5?style=for-the-badge)](https://hkhodkar.github.io)
+[![CV](https://img.shields.io/badge/Download-CV-0ea5e9?style=for-the-badge)](https://hkhodkar.github.io/Hatef-Khodkar-CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hatef--khodkar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hatef-khodkar)
+[![Email](https://img.shields.io/badge/Email-hatef.khodkar%40hotmail.com-1b2232?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hatef.khodkar@hotmail.com)
+
+### What I can build for you
+
+- Angular web apps, dashboards and admin panels (Angular 11 to 21, Signals, NgRx, RxJS)
+- Complex dynamic forms, form builders and multi-step workflows
+- AngularJS to Angular migrations and Angular version upgrades
+- SSR, SEO and performance improvements
+- Full-stack features with Angular + Python (FastAPI)
+- Automated tests with Playwright, Cypress, Jasmine and Vitest
+
+### Featured projects
+
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| **Invoice Generator** | Create invoices with live preview, PDF export and payment statuses | Angular 21, Signals, jsPDF | [Live demo](https://hkhodkar.github.io/invoice-generator/) · [Code](https://github.com/hkhodkar/invoice-generator) |
+| **Expense Tracker** | Personal finance dashboard with budgets, charts and CSV import/export | Angular 21, Signals, Chart.js | [Live demo](https://hkhodkar.github.io/expense-tracker/) · [Code](https://github.com/hkhodkar/expense-tracker) |
+
+### Tech stack
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
