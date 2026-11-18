@@ -22,6 +22,7 @@ I build fast, clean and maintainable web applications with Angular. 7+ years of 
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
+| **CRM Lite** | Contacts, companies, deals pipeline, activity timeline and KPI dashboard | Angular 21, FastAPI, SQLite, Docker | [Code](https://github.com/hkhodkar/crm-lite) |
 | **Kanban Task Board** | Drag and drop task board with labels, due dates, assignees, checklists and filters | Angular 21, Signals, Angular CDK | [Live demo](https://hkhodkar.github.io/kanban-task-board/) · [Code](https://github.com/hkhodkar/kanban-task-board) |
 | **Invoice Generator** | Create invoices with live preview, PDF export and payment statuses | Angular 21, Signals, jsPDF | [Live demo](https://hkhodkar.github.io/invoice-generator/) · [Code](https://github.com/hkhodkar/invoice-generator) |
 | **Expense Tracker** | Personal finance dashboard with budgets, charts and CSV import/export | Angular 21, Signals, Chart.js | [Live demo](https://hkhodkar.github.io/expense-tracker/) · [Code](https://github.com/hkhodkar/expense-tracker) |
