@@ -22,6 +22,7 @@ I build fast, clean and maintainable web applications with Angular. 7+ years of 
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
+| **Real Estate Listings** | Property search with URL-synced filters, a Leaflet map view, galleries and favorites | Angular 21, Signals, Leaflet | [Live demo](https://hkhodkar.github.io/real-estate-listings/) · [Code](https://github.com/hkhodkar/real-estate-listings) |
 | **Auth Starter** | Login, JWT sessions with refresh-token rotation and role-based admin UI | Angular 21, FastAPI, JWT, Docker | [Live demo](https://hkhodkar.github.io/auth-starter/) · [Code](https://github.com/hkhodkar/auth-starter) |
 | **E-commerce Storefront** | Online shop with product filters, a persistent cart and a validated checkout | Angular 21, Signals, Reactive Forms | [Live demo](https://hkhodkar.github.io/ecommerce-storefront/) · [Code](https://github.com/hkhodkar/ecommerce-storefront) |
 | **Admin Users Table** | User management with server-side paging, sorting, filters, bulk actions and CSV export | Angular 21, FastAPI, SQLite, Docker | [Live demo](https://hkhodkar.github.io/admin-users-table/) · [Code](https://github.com/hkhodkar/admin-users-table) |
