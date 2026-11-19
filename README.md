@@ -22,6 +22,7 @@ I build fast, clean and maintainable web applications with Angular. 7+ years of 
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
+| **Admin Users Table** | User management with server-side paging, sorting, filters, bulk actions and CSV export | Angular 21, FastAPI, SQLite, Docker | [Live demo](https://hkhodkar.github.io/admin-users-table/) · [Code](https://github.com/hkhodkar/admin-users-table) |
 | **Appointment Booking** | Clinic booking with real-time slot availability, booking form, admin table and staff agenda | Angular 21, Signals, Reactive Forms | [Live demo](https://hkhodkar.github.io/appointment-booking/) · [Code](https://github.com/hkhodkar/appointment-booking) |
 | **CRM Lite** | Contacts, companies, deals pipeline, activity timeline and KPI dashboard | Angular 21, FastAPI, SQLite, Docker | [Live demo](https://hkhodkar.github.io/crm-lite/) · [Code](https://github.com/hkhodkar/crm-lite) |
 | **Kanban Task Board** | Drag and drop task board with labels, due dates, assignees, checklists and filters | Angular 21, Signals, Angular CDK | [Live demo](https://hkhodkar.github.io/kanban-task-board/) · [Code](https://github.com/hkhodkar/kanban-task-board) |
