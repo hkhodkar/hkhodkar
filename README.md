@@ -22,6 +22,7 @@ I build fast, clean and maintainable web applications with Angular. 7+ years of 
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
+| **Multi-step Form Wizard** | Schema-driven multi-step forms with conditional fields, async validation and drafts | Angular 21, Signals, Reactive Forms | [Live demo](https://hkhodkar.github.io/multi-step-form-wizard/) · [Code](https://github.com/hkhodkar/multi-step-form-wizard) |
 | **Real Estate Listings** | Property search with URL-synced filters, a Leaflet map view, galleries and favorites | Angular 21, Signals, Leaflet | [Live demo](https://hkhodkar.github.io/real-estate-listings/) · [Code](https://github.com/hkhodkar/real-estate-listings) |
 | **Auth Starter** | Login, JWT sessions with refresh-token rotation and role-based admin UI | Angular 21, FastAPI, JWT, Docker | [Live demo](https://hkhodkar.github.io/auth-starter/) · [Code](https://github.com/hkhodkar/auth-starter) |
 | **E-commerce Storefront** | Online shop with product filters, a persistent cart and a validated checkout | Angular 21, Signals, Reactive Forms | [Live demo](https://hkhodkar.github.io/ecommerce-storefront/) · [Code](https://github.com/hkhodkar/ecommerce-storefront) |
