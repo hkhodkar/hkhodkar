@@ -22,6 +22,7 @@ I build fast, clean and maintainable web applications with Angular. 7+ years of 
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
+| **Job Board** | Job search with filters, saved jobs, apply form with CV upload and employer posts | Angular 21, Signals, Reactive Forms | [Live demo](https://hkhodkar.github.io/job-board/) · [Code](https://github.com/hkhodkar/job-board) |
 | **Sales Analytics Dashboard** | Sales dashboard with KPIs, charts, date range filters and region/product drill-down | Angular 21, Signals, Chart.js | [Live demo](https://hkhodkar.github.io/sales-analytics-dashboard/) · [Code](https://github.com/hkhodkar/sales-analytics-dashboard) |
 | **Inventory Manager** | Products, stock in/out ledger, low-stock alerts, suppliers and value reports | Angular 21, FastAPI, SQLite, Docker | [Live demo](https://hkhodkar.github.io/inventory-manager/) · [Code](https://github.com/hkhodkar/inventory-manager) |
 | **Multi-step Form Wizard** | Schema-driven multi-step forms with conditional fields, async validation and drafts | Angular 21, Signals, Reactive Forms | [Live demo](https://hkhodkar.github.io/multi-step-form-wizard/) · [Code](https://github.com/hkhodkar/multi-step-form-wizard) |
