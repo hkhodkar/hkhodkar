@@ -22,6 +22,7 @@ I build fast, clean and maintainable web applications with Angular. 7+ years of 
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
+| **SaaS Landing Page** | Prerendered landing page with pricing toggle, accessible FAQ, contact form and full SEO | Angular 21, SSG, SCSS | [Live demo](https://hkhodkar.github.io/saas-landing-page/) · [Code](https://github.com/hkhodkar/saas-landing-page) |
 | **File Upload Manager** | Drag and drop uploads with live progress, validation, previews and a file library | Angular 21, FastAPI, SQLite, Docker | [Live demo](https://hkhodkar.github.io/file-upload-manager/) · [Code](https://github.com/hkhodkar/file-upload-manager) |
 | **Realtime Chat** | Team chat with rooms, live presence, typing indicators and message history | Angular 21, FastAPI, WebSockets, SQLite | [Live demo](https://hkhodkar.github.io/realtime-chat/) · [Code](https://github.com/hkhodkar/realtime-chat) |
 | **Job Board** | Job search with filters, saved jobs, apply form with CV upload and employer posts | Angular 21, Signals, Reactive Forms | [Live demo](https://hkhodkar.github.io/job-board/) · [Code](https://github.com/hkhodkar/job-board) |
