@@ -22,6 +22,7 @@ I build fast, clean and maintainable web applications with Angular. 7+ years of 
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
+| **Markdown Notes** | Markdown notebook with live preview, tags, search, pins and .md import/export | Angular 21, Signals, highlight.js | [Live demo](https://hkhodkar.github.io/markdown-notes/) · [Code](https://github.com/hkhodkar/markdown-notes) |
 | **HR Leave Management** | Leave requests, approvals, working-day balances and a team calendar | Angular 21, FastAPI, SQLite, Chart.js | [Live demo](https://hkhodkar.github.io/hr-leave-management/) · [Code](https://github.com/hkhodkar/hr-leave-management) |
 | **Restaurant Ordering** | Menu with item options, cart, checkout, live order tracking and a kitchen board | Angular 21, Signals, Reactive Forms | [Live demo](https://hkhodkar.github.io/restaurant-ordering/) · [Code](https://github.com/hkhodkar/restaurant-ordering) |
 | **URL Shortener** | Short links with custom aliases, QR codes, expiry and click analytics | Angular 21, FastAPI, SQLite, Chart.js | [Live demo](https://hkhodkar.github.io/url-shortener/) · [Code](https://github.com/hkhodkar/url-shortener) |
